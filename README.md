@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AZFARHAD24511
 - 👀 I’m interested in Econometrics, Data Science and statistical issues throuth the R,PYTON,...
 - 🌱 I’m currently learning AI, machin learning, deep learning, ...
-- 💞️ I’m looking to collaborate on Big Data and economic issues of prediction and forcating or data analyses
+- 💞️ I’m looking to collaborate on Big Data and economic issues and econometics like prediction and forcating or data analyses from Big Data analyses.
 - 📫 How to reach me farhadmj1974@gmail.com
 
 <!---
